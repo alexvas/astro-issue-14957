@@ -4,5 +4,6 @@
   "private": true,
   "workspaces": [
     "mainsite"
-  ]
+  ],
+  "packageManager": "yarn@4.12.0"
 }
