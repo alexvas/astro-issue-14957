@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     viewBox="0 0 200 60">
+  <rect width="100%" height="100%" fill="none"/>
+  <circle cx="30" cy="30" r="20" fill="#1f8ceb"/>
+  <path d="M46 22 L62 30 L46 38 Z" fill="#0b6abf" opacity="0.9"/>
+  <text x="90" y="36" font-family="sans-serif"
+        font-size="20" fill="#111" dominant-baseline="middle">Astro</text>
+</svg>
+
